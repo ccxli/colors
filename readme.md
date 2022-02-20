@@ -5,5 +5,3 @@
 <p align="right">
     simple colors
 </p>
-
-> in-progress
